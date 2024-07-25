@@ -15,3 +15,11 @@
 **git checkout master** - uso o nome da que eu quero ver
 
 **OBS**: toda vez que comitar, tenho que usar o comando git commit -m "nome da alteração"
+
+
+## Envio da branch local apara o respositório remoto/Github
+
+#### git checkout -b (nome do branch): cria e troca para a nova branch
+
+
+
