@@ -1,5 +1,9 @@
 ## notas de aulas refrentes ao modulo 1 - git e github do data analytcs
 
-## nota 1
+## Instalação do GIT
 
-## nota 2
+## Configuração do GIT
+
+## 
+
+## git status
